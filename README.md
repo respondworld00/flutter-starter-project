@@ -11,6 +11,7 @@ The app is a simple intro screen for **Lazy Daze Radio**, focused on learning Fl
 - Gradient background
 - Custom styled buttons
 - External links opened using `url_launcher`
+
 - Responsive layout structure
 
 ## 🛠️ Tech Stack
@@ -20,7 +21,7 @@ The app is a simple intro screen for **Lazy Daze Radio**, focused on learning Fl
 - url_launcher package
 
 ## 📸 Preview
-<img width="1556" height="5916" alt="My First Flutter App" src="https://github.com/user-attachments/assets/1b9de20b-1f86-4a81-94ab-99bae57f313f" />
+<img width="594" height="520" alt="Screenshot 2026-01-18 003023" src="https://github.com/user-attachments/assets/bef928bd-fd31-4bb2-af79-01083921ad42" />
 
 
 ## 🎯 What I Learned
